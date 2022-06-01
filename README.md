@@ -52,7 +52,7 @@ As of May 2022
 
 ## Proposals
 
-- [Updates to Inputs and Mixing](./proposed-updates/)
+- [Updates to Inputs and Mixing](./proposed-updates.md)
 
 ## Reference
 
