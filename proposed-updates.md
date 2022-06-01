@@ -1,5 +1,19 @@
 # Proposed Updates
 
+## Problem Statement
+
+The current board is designed with an experienced operator in mind.  There are three layers of mix to track and channels behave differently on each.  This is not a burden for well-trained and experienced operators, but it is a challenge for new operators.
+
+## Requirements
+
+The primary goal of these updates is to reduce to cognitive load on the operator while in-service.  
+
+The secondary goal is to make it possible to create a "basic" level of training, which is adequate to get through a Sunday morning service (similar to how the other two stations have both a basic and advanced training level).
+
+Finally, it is a requirment that all channels that are in operation be assigned (preferably on layer A or B), so that an advanced opererator still has fine control over all levels when needed.
+
+## Proposal Summary
+
 1. Merge Aux 1 and Aux 2.
 2. Set channels present in the live show to post mixes.  This will ease the burden on the operator in keeping a good mix on Aux.
 3. Pull unneeded inputs from the Fx1 send to prevent accidental reverb on non-choral parts.
@@ -9,7 +23,7 @@
 
 The proposed routing improves the operation of the board by leveraging post mixes on the aux and compibing web and lobby mixes.  Since we are all-vocal, we generally want the same mix in the lobby as we have on the stream.  
 
-The web/lobby mix can run _mostly_ at 0dB reletive to the main mix, except for the lead, which we would pull down to bring him closer to the average volume of the four choral parts.  Minor tweak in-service would then trickle down to the web/lobby mix automatically. 
+The web/lobby mix can run _mostly_ at 0dB reletive to the main mix, except for the lead, which we would pull down to bring him closer to the average volume of the four choral parts.  Minor tweaks in-service would then trickle down to the web/lobby mix automatically. 
 
 ![Inputs and Mixing Draft](img/inputs-and-mixing-draft.excalidraw.png)
 
