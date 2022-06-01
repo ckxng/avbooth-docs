@@ -42,4 +42,4 @@ After Worship Service
 Shutdown ProPresenter, the computer, the TVs, and all 3 projectors.
 Clean up your workspace.
 
-[<-back](README.md)
+[<- back](README.md)
