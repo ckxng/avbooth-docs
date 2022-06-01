@@ -34,8 +34,8 @@ Simple Wireless Profiles
 | Pack 1 | Lapel mic | No |
 | Pack 2 | Lapel mic | No |
 | Pack 3 | Countryman mic | No |
-| Pack 4 | Countryman mic | No |
-| Pack 5 | Countryman mic | No |
+| Pack 4/Hand 1 | Countryman mic or Handheld | No |
+| Pack 5/Hand 2 | Countryman mic or Handheld | No |
 | Hand 3 | Handheld | Yes (FX muted by default) |
 | Hand 4 | Handheld | Yes (FX muted by default) |
 | Hand 5 | Handheld | Yes (FX muted by default) |
