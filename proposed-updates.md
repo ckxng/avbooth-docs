@@ -21,7 +21,7 @@ Finally, it is a requirment that all channels that are in operation be assigned 
 
 ## Inputs and Mixing
 
-The proposed routing improves the operation of the board by leveraging post mixes on the aux and compibing web and lobby mixes.  Since we are all-vocal, we generally want the same mix in the lobby as we have on the stream.  
+The proposed routing improves the operation of the board by leveraging post mixes on the aux and combining web and lobby mixes.  Since we are all-vocal, we generally want the same mix in the lobby as we have on the stream.  
 
 The web/lobby mix would require very little adjustment once set.  Tweaks to individual main mix levels in-service (such as minor adjustments due to quiet announcers or enthusiastic singers) would then trickle down to the web/lobby mix automatically. 
 
