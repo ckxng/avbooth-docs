@@ -12,16 +12,16 @@ The church preset is labeled and set for Sunday morning, with vocal profiles set
 
 Church Wireless Profiles
 
-| Device | Use | Reverb |
-| --- | --- | --- |
-| Pack 1 | Announcer, with lapel mic | No |
-| Pack 2 | Trey, with lapel mic | No |
-| Pack 3 | Randy/Preacher, with Countryman mic | No |
-| Hand 1 | Tom, strong male lead, higher volume than chorus | Yes |
-| Hand 2 | Soprano, balanced with chorus | Yes |
-| Hand 3 | Alto, balanced with chorus | Yes |
-| Hand 4 | Tenor, balanced with chorus | Yes |
-| Hand 5 | Bass, balanced with chorus | Yes |
+| Device | Label | Use | Reverb |
+| --- | --- | --- | --- |
+| Pack 1 | Announcer | Lapel mic | No |
+| Pack 2 | Trey | Lapel mic | No |
+| Pack 3 | Randy/Preacher | Countryman mic | No |
+| Pack 4/Hand 1 | Tom/Lead | Higher volume than chorus | Yes |
+| Pack 5/Hand 2 | Soprano | Balanced with chorus | Yes |
+| Hand 3 | Alto | Balanced with chorus | Yes |
+| Hand 4 | Tenor | Balanced with chorus | Yes |
+| Hand 5 | Bass | Balanced with chorus | Yes |
 
 ### Simple
 
