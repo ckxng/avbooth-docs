@@ -3,7 +3,7 @@
 # Videos
 
 There are many Proclaim training videos available at:
-https://support.faithlife.com/hc/en-us/articles/360033600031-Proclaim-Training-Videos
+[Proclaim Training Videos](https://support.faithlife.com/hc/en-us/articles/360033600031-Proclaim-Training-Videos)
 
 The videos following videos may be of use to you:
 - Get Started - Build Your First Presentation
@@ -20,7 +20,7 @@ Anyone on the team can access Proclaim from home and those files will automatica
 
 1. Cameron will invite you to the “Woodland West Presentation Team” on FaithLife.com
 2. Go to your email and accept the invitation.  You will need to create an account, if you don’t already have one.
-3. Download Proclaim from https://faithlife.com/products/proclaim/download
+3. Download Proclaim from [Faithlife Proclaim Download](https://faithlife.com/products/proclaim/download)
 4. Install and open the software.
 5. Login with your FaithLife account.
 6. You will be prompted for a team to open as, select Woodland West Presentation Team.
@@ -28,7 +28,7 @@ Anyone on the team can access Proclaim from home and those files will automatica
 ## Adding a song from the songbook which we have used in Proclaim before.
 
 More help topics can be found on the help website here:
-https://support.faithlife.com/hc/en-us/categories/360000510451-Faithlife-Proclaim
+[Proclaim Help](https://support.faithlife.com/hc/en-us/categories/360000510451-Faithlife-Proclaim)
 
 But these instructions are specific to Woodland West.
 
@@ -52,7 +52,7 @@ If you have large changes to make, or if you want to add additional verses that 
 ## Adding a song from the songbook which we have not used in Proclaim before.
 
 More help topics can be found on the help website here:
-https://support.faithlife.com/hc/en-us/categories/360000510451-Faithlife-Proclaim
+[Proclaim Help](https://support.faithlife.com/hc/en-us/categories/360000510451-Faithlife-Proclaim)
 
 But these instructions are specific to Woodland West.
 
@@ -76,7 +76,7 @@ The WW in the song name is an easy way to tell our custom Slide Groups apart fro
 ## Removing an image collection for a song from the library.
 
 More help topics can be found on the help website here:
-https://support.faithlife.com/hc/en-us/categories/360000510451-Faithlife-Proclaim
+[Proclaim Help](https://support.faithlife.com/hc/en-us/categories/360000510451-Faithlife-Proclaim)
 
 But these instructions are specific to Woodland West.
 
@@ -97,7 +97,7 @@ If you need to import a fresh copy of a song, move on to the next set of instruc
 ## Importing a song from the SFP library as an image collection.
 
 More help topics can be found on the help website here:
-https://support.faithlife.com/hc/en-us/categories/360000510451-Faithlife-Proclaim
+[Proclaim Help](https://support.faithlife.com/hc/en-us/categories/360000510451-Faithlife-Proclaim)
 
 But these instructions are specific to Woodland West.
 
