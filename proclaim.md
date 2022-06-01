@@ -138,3 +138,5 @@ The following collections have not yet been imported in their entirety:
 Feel free to upload any songs that we need!  Open the file, make sure it looks good, then follow the instructions above to import it.
 
 Don’t forget to name the file “0000 - Song Name” if it doesn’t come from our song book.  The “0000” will help us identify it as a song when we are searching through media.
+
+[<- back](README.md)
