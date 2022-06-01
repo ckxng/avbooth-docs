@@ -22,7 +22,7 @@
 - Verify that the soundboard input to OBS is unmuted
   - "Soundboard" on the StreamDeck should be lit up and animated
 
-## Pre-show
+## Pre-show (10:15)
 - 15 minutes before worship begins, start the livestream
   - Stream can be started from page 2 of the StreamDeck or in OBS
   - Make sure "recording" was enabled at the same time
