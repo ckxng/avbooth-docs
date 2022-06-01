@@ -10,12 +10,12 @@ The primary goal of these updates is to reduce to cognitive load on the operator
 
 The secondary goal is to make it possible to create a "basic" level of training, which is adequate to get through a Sunday morning service (similar to how the other two stations have both a basic and advanced training level).
 
-Finally, it is a requirment that all channels that are in operation be assigned (preferably on layer A or B), so that an advanced opererator still has fine control over all levels when needed.
+Finally, it is a requirement that all channels in operation be assigned (preferably on layer A or B), so that an advanced opererator still has fine control over all levels when needed.
 
 ## Proposal Summary
 
 1. Merge Aux 1 and Aux 2.
-2. Set channels present in the live show to post mixes.  This will ease the burden on the operator in keeping a good mix on Aux.
+2. Set channels present in the live show to post mixes.
 3. Pull unneeded inputs from the Fx1 send to prevent accidental reverb on non-choral parts.
 4. Add the ceiling mics to a DCA to simplify strip assignment
 
