@@ -50,6 +50,10 @@ As of May 2022
 
 ![Inputs and Mixing](img/inputs-and-mixing.excalidraw.png)
 
+## Proposals
+
+- [Updates to Inputs and Mixing](./proposed-updates/)
+
 ## Reference
 
 - [Signal Path Diagrams](https://support.allen-heath.com/hc/en-gb/articles/4402940459537-SQ-Basic-Signal-Path-Diagrams-Input-Group-LR-Aux-Matrix)
