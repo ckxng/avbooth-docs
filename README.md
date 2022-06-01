@@ -11,5 +11,6 @@ This repo contains documentation, diagrams, and playbooks for the Woodland West 
 ## Documentation
 
 - [Proclaim Playbook](proclaim.md)
+- [StreamDeck](streamdeck.md)
 - [Soundboard Overview](soundboard.md)
 - [Proposed Soundboard Updates](proposed-updates.md)
