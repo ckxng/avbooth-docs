@@ -7,7 +7,9 @@
 
 ## Inputs and Mixing
 
-The proposed routing improves the operation of the board by leveraging post mixes on the aux and compibing web and lobby mixes.  Since we are all-vocal, we generally want the same mix in the lobby as we have on the stream.  The web/lobby mix can run _mostly_ at 0dB reletive to the main mix, except for the lead, which we would pull down to bring him closer to the average volume of the four choral parts.  Minor tweak in-service would then trickle down to the web/lobby mix automatically.  It's not perfect, and the operator would still have control of the web/lobby mix via. aux 1 faders, but it should make the job slightly easier.
+The proposed routing improves the operation of the board by leveraging post mixes on the aux and compibing web and lobby mixes.  Since we are all-vocal, we generally want the same mix in the lobby as we have on the stream.  
+
+The web/lobby mix can run _mostly_ at 0dB reletive to the main mix, except for the lead, which we would pull down to bring him closer to the average volume of the four choral parts.  Minor tweak in-service would then trickle down to the web/lobby mix automatically. 
 
 ![Inputs and Mixing Draft](img/inputs-and-mixing-draft.excalidraw.png)
 
