@@ -35,6 +35,11 @@
 - Watch for a red square in the bottom right corner of OBS.  It is a sign of poor streaming quality.
 - Watch chat.  Feel free to respond if appropriate.
 
+## After Worship Service
+- Let the post-show slides cycle a few times
+- Stop the stream and recording
+- Leave the computer on, so that the recording will be uploaded to our backup system
+
 ## Camera Handling Tips
 - The StreamDeck has quick scene change buttons laid out in the same format as MultiView
 - Avoid trying to "track" moving people if possible
