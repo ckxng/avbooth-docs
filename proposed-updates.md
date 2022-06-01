@@ -5,3 +5,5 @@
 3. Pull unneeded inputs from the Fx1 send to prevent accidental reverb on non-choral parts.
 
 ![Inputs and Mixing Draft](img/inputs-and-mixing-draft.excalidraw.png)
+
+[<- back](./README.md)
