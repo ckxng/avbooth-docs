@@ -55,7 +55,7 @@
 
 ## Stream Dump (Emergency)
 
-In case of emergency (such as violence, nudity, excessive cursing), the stream can be terminated with the DUMP button on page 2 of the StreamDeck or from OBS via. a dropdown beneath the normal stop button.  You have 20 seconds to press the button.
+In case of emergency (such as violence, nudity, excessive cursing), the stream can be terminated with the DUMP button on page 2 of the StreamDeck or from OBS via. a dropdown beneath the normal stop button.  You have 20 seconds to press the button.  You do not need permission to do this.  If you see something "Rated R", just push it.
 
 This is different from the regular "stop" button, which continues streaming until the 20 second buffer has been delivered to viewers.  The DUMP button kills the stream without sending the last 20 seconds.
 
