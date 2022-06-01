@@ -42,7 +42,7 @@ Simple Wireless Profiles
 
 ### VBS
 
-VBS is reset each year.
+VBS is reset each year.  Uses simple as a baseline, then customize from there.
 
 ## Inputs and Mixing
 
