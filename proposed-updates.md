@@ -35,6 +35,8 @@ This layout reduces the number of strips to just what is needed for regular boar
 
 The first three groups of strips are channels which are present in both the main and web mix.  The fourth group is set aside to manage the external mixes, so that the operator does not have to switch mixes to make the most common in-service adjustments for those outputs (adjustment or muting of the ceiling mics, or overall web/foyer levels).
 
+The most common channels in Layer A contain everything an operator trained at the basic level needs to run service.    Layer B would only be needed for the individual channels inside of the DCA, inputs with open jacks that are not otherwise used, FX sends, and similar channels which are typically set-and-forget.
+
 ![Board Overview Draft](img/board-overview-draft.excalidraw.png)
 
 ![Strip Assignment Draft](img/strip-assignment-draft.excalidraw.png)
