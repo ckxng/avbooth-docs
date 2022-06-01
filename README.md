@@ -56,4 +56,6 @@ As of May 2022
 
 ## Reference
 
+- [Reference Guide](https://www.allen-heath.com/media/SQ_ReferenceGuide_V1_5_0.pdf)
+- [Tech Datasheet](https://www.allen-heath.com/media/SQ-5-Technical-Datasheet_G.pdf)
 - [Signal Path Diagrams](https://support.allen-heath.com/hc/en-gb/articles/4402940459537-SQ-Basic-Signal-Path-Diagrams-Input-Group-LR-Aux-Matrix)
