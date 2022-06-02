@@ -48,10 +48,6 @@ Simple Wireless Profiles
 
 VBS is reset each year.  Uses simple as a baseline, then customize from there.
 
-## Proposals
-
-- [Updates to Inputs and Mixing](./proposed-updates.md)
-
 ## Reference
 
 - [Reference Guide](https://www.allen-heath.com/media/SQ_ReferenceGuide_V1_5_0.pdf)
