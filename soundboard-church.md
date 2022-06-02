@@ -1,5 +1,9 @@
 # Church Soundboard
 
+## Preset Summary
+
+The church preset is a variation on the [Simple Preset](soundboard-simple.md), except that the reveb send has been extended to include all 5 handheld microphones, and each microphone has a custom EQ profile depending on it's typical use during Sunday morning worship.  Additionally, the reverb, ceiling mics, and foyer are unmuted by default.
+
 ## Sunday Soundcheck Mixing
 
 The preset contains settings which are probably "good enough" for most Sundays.  But each combination of singers is different, so this procedure will help you fine-tune the mix each Sunday.
