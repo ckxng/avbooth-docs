@@ -4,6 +4,7 @@
 
 When loading the Simple preset (Soft Key 8), the board will be set as follows:
 
+- The Podium mic is unmuted and ready to use
 - Belt Pack 1-5 and Handheld 1-5 are unmuted and ready to use
   - Belt Pack 4 and Handheld 1 cannot be on at the same time, choose one!
   - Belt Pack 5 and Handheld 2 cannot be on at the same time, choose one!
