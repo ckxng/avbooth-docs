@@ -1,4 +1,4 @@
-# Soundboard Documentation
+# A/V Booth Documentation
 
 This repo contains documentation, diagrams, and playbooks for the Woodland West A/V booth.
 
