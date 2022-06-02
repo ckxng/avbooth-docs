@@ -13,5 +13,5 @@ This repo contains documentation, diagrams, and playbooks for the Woodland West 
 - [Proclaim Playbook](proclaim.md)
 - [StreamDeck](streamdeck.md)
 - [Soundboard Overview](soundboard.md)
-  - [Church Preset](sounboard-church.md)
-  - [Simple Preset](sounboard-simple.md)
+  - [Church Preset](soundboard-church.md)
+  - [Simple Preset](soundboard-simple.md)
