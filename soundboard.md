@@ -8,6 +8,8 @@
 
 ### Church
 
+[Church Board Procedures and Diagrams](soundboard-church.md)
+
 The church preset is labeled and set for Sunday morning, with vocal profiles set on all devices according to their typical use.
 
 Church Wireless Profiles
@@ -24,6 +26,8 @@ Church Wireless Profiles
 | Hand 5 | Bass | Balanced with chorus | Yes |
 
 ### Simple
+
+[Simple Board Diagrams](soundboard-simple.md)
 
 The simple preset has factory default vocal profiles and generic labels.
 
@@ -43,12 +47,6 @@ Simple Wireless Profiles
 ### VBS
 
 VBS is reset each year.  Uses simple as a baseline, then customize from there.
-
-## Inputs and Mixing
-
-As of May 2022
-
-![Inputs and Mixing](img/inputs-and-mixing.excalidraw.png)
 
 ## Proposals
 
