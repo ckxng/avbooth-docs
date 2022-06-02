@@ -1,6 +1,6 @@
 # Simple Soundboard
 
-## Preset Defaults
+## Preset Summary
 
 When loading the Simple preset (Soft Key 8), the board will be set as follows:
 
