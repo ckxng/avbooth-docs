@@ -76,8 +76,8 @@ In addition to the tasks above, an operator is also proficient in the following 
 
 ## Expert Training
 
-While basic and advanced operators make changes which affect an individual worship service, expert operators make changes that effect every worship service from this point forward.
+While basic and advanced operators make changes which affect an individual worship service, expert operators make changes that affect every worship service from this point forward.
 
-There is a need for a few people to be familiar with the hardware wiring and software configuration for equipment on the sound board.  We cannot put all our eggs in one basket (or all our knowledge in one head).  There is a wide variety of equipment: including computers, the mixer, amplifiers, microphones, radio recievers, antennas, projectors, and speakers.  Therefore, there is no specific training plan.  However, if you have a passion for this and are looking to get involved behind the scenes in an already behind the scenes ministry... let us know.
+There is a need for a few people to be familiar with the hardware wiring and software configuration for equipment on the sound board.  We cannot put all our eggs in one basket (or all our knowledge in one head).  There is a wide variety of equipment, including: computers, the mixer, amplifiers, microphones, radio recievers, antennas, projectors, and speakers.  Therefore, there is no specific training plan.  However, if you have a passion for this and are looking to get involved behind the scenes in an already behind the scenes ministry... let us know.
 
 [<- back](README.md)
