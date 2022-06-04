@@ -16,3 +16,4 @@ This repo contains documentation, diagrams, and playbooks for the Woodland West 
   - [Church Preset](soundboard-church.md)
   - [Simple Preset](soundboard-simple.md)
 - [Training Plan](training.md)
+- [Soundboard Setup](soundboard-setup.md)
