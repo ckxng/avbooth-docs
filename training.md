@@ -1,5 +1,7 @@
 # Training Plan
 
+We would love for everyone to train to at least Level 1 in each area.  For those who do, we have a special [thank you](training-times-three.md).
+
 ## Presentation
 
 ### Level 1 - Standard Operator Training
