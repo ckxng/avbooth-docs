@@ -14,6 +14,7 @@ An operator is proficient in the following tasks:
 4. locating and switching to slides when they are out of order
 5. hiding slides that should not be in the show (identified during soundcheck)
 6. turning off the lights, computer, projectors, and A/V equipment rack
+7. Indicating that the room is occupied on the air conditioner panels
 
 ### Level 2 - Advanced Operator Training
 
@@ -24,6 +25,7 @@ In addition to the tasks above, an operator is also proficient in the following 
 3. recalling a song from the library and inserting it into the show
 4. making corrections to slides
 5. setting up the pre-show and post-show slides and timings, including a countdown timer
+6. Adjusting the levels of individual lights in the room, separate from the lighting presets
 
 ## LiveStream
 
@@ -40,6 +42,7 @@ An operator is proficient in the following tasks:
 7. choosing the appropriate camera angle for each part of the worship service
 8. keeping the speaker in frame
 9. turning off lights and locking the livestream computer (but leave it running)
+10. Indicating that the room is occupied on the air conditioner panels
 
 ### Level 2 - Advanced Operator Training
 
@@ -48,6 +51,7 @@ In addition to the tasks above, an operator is also proficient in the following 
 1. engaging the audience in stream chat in a positive and uplifting manner
 2. forwarding prayer requests to the church office
 3. making artistic and visually pleasing use of camera angles for a professional appearance
+4. Adjusting the levels of individual lights in the room, separate from the lighting presets
 
 ## Soundboard
 
@@ -65,6 +69,7 @@ An operator is proficient in the following tasks:
 8. operating the PAFL and headphones
 9. responding to feedback by reducing levels
 10. turning off the lights, mixer, equipment rack, and reciever rack in the correct order
+11. Indicating that the room is occupied on the air conditioner panels
 
 ### Level 2 - Advanced Operator Training
 
@@ -75,6 +80,7 @@ In addition to the tasks above, an operator is also proficient in the following 
 3. evaluating and adjusting the impact of reverb and audience fill on the mix
 4. identifying the frequency of feedback and responding with EQ adjustment
 5. understanding microphone positioning relative to speakers to reduce feedback
+6. Adjusting the levels of individual lights in the room, separate from the lighting presets
 
 ## Expert Training
 
