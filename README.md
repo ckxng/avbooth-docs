@@ -11,6 +11,7 @@ This repo contains documentation, diagrams, and playbooks for the Woodland West 
 ## Documentation
 
 - [Proclaim Playbook](proclaim.md)
+- [Camera Presets](camera-presets.md)
 - [StreamDeck](streamdeck.md)
 - [Soundboard Overview](soundboard.md)
   - [Church Preset](soundboard-church.md)
