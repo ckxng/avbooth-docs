@@ -2,7 +2,7 @@
 
 ## Preset Summary
 
-The church preset is a variation on the [Simple Preset](soundboard-simple.md), except that the reveb send has been extended to include all 5 handheld microphones, and each microphone has a custom EQ profile depending on it's typical use during Sunday morning worship.  Additionally, the reverb, ceiling mics, and foyer are unmuted by default.
+The church preset is a variation on the [Simple Preset](soundboard-simple.md), except that the reveb send has been extended to include all 5 handheld microphones, and each microphone has a custom EQ profile depending on it's typical use during Sunday morning worship.  Additionally, the reverb, ceiling mics, and foyer are unmuted by default and configured slightly differently.
 
 ## Sunday Soundcheck Mixing
 
@@ -28,6 +28,12 @@ Web and Lobby Mixes
 4. Switch to Lobby Mix
 5. Make the same adjustment
 6. Switch back to Main Mix
+
+Note on audience fill:
+
+The left ceiling mic is configured at -35dB and is unmuted at all times.  This is to capture general room ambiance and faint laughter from the audience.
+
+The right ceiling mic is configured 0dB and is bound to the vocal mute group.  This mic captures a selection of audience singers and feeds that to the lobby and web mix.  It is silent when the vocal group is muted.
 
 ## Board Overview
 
