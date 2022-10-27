@@ -35,6 +35,16 @@ The left ceiling mic is configured at -35dB and is unmuted at all times.  This i
 
 The right ceiling mic is configured 0dB and is bound to the vocal mute group.  This mic captures a selection of audience singers and feeds that to the lobby and web mix.  It is silent when the vocal group is muted.
 
+These channels will be infrequently adjusted, but should a need arise they are exposed in Layer F (the bottom layer).
+
+Note on Reverb:
+
+Reverb is fed only to vocal channels, and is pre-set and is infrequently adjusted.  Should a need arise, Reverb and Reverb Send are exposed in Layer F.
+
+Note on DeEss:
+
+DeEss is disabled at this time.
+
 ## Board Overview
 
 ![Board Overview](img/board-overview.excalidraw.png)
@@ -44,5 +54,9 @@ The right ceiling mic is configured 0dB and is bound to the vocal mute group.  T
 As of May 2022
 
 ![Inputs and Mixing](img/inputs-and-mixing.excalidraw.png)
+
+Correction:
+
+Ceiling Left/Right are no longer in a DCA and are controlled independantly.
 
 [<- back](README.md)
