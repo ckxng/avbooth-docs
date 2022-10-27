@@ -55,8 +55,6 @@ As of May 2022
 
 ![Inputs and Mixing](img/inputs-and-mixing.excalidraw.png)
 
-Correction:
-
-Ceiling Left/Right are no longer in a DCA and are controlled independantly.
+October 2022 Note:  Ceiling Left/Right are no longer in a DCA and are controlled independantly.
 
 [<- back](README.md)
