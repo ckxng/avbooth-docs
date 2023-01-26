@@ -10,6 +10,7 @@ This repo contains documentation, diagrams, and playbooks for the Woodland West 
 
 ## Documentation
 
+- [Verifying Streaming Licenses](check-license.md)
 - [Proclaim Playbook](proclaim.md)
 - [Camera Presets](camera-presets.md)
 - [StreamDeck](streamdeck.md)
