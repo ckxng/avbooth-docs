@@ -10,7 +10,9 @@ Please email a copy of the lyrics to media@wwcoc.org.  They can be contained in 
 
 This is the best way to send us lyrics.  Our software understands this format natively, and makes it very easy for the operater to skip around the song or to skip verses.
 
-_When verses are in this format, we can save multiple arrangement presets and the operator can jump to the third verse just by pressing "3" on the keyboard.  We thank you in advance!_
+If you have a particular background you want displayed behind the song, send that along as well.  Otherwise, the slide will have white text on a black background.  (...or maybe something pretty, if the person who enters the song feels inspired!)
+
+If you are curious _why_ we prefer this specific format, please skip to the bottom of this document for an illustration of how the software we use interprets song lyrics.
 
     Title: Blue Skies and Rainbows
     Arrangement: V1, R, V2, R, V3, R
@@ -75,7 +77,9 @@ If a song does not have an easily defined structure, you can forgo the section l
 
 ## Siempre Familia Songs
 
-On Sunday mornings, Siempre Familia runs a Live Stream with the bottom third scrolling song lyrics.  This means that song slides should be limited to 2-3 lines of text as a maximum (or else the text gets too small to read).  For example:
+On Sunday mornings, Siempre Familia runs a Live Stream with the bottom third scrolling song lyrics.  This means that song slides should be limited to 2-3 lines of text as a maximum (or else the text gets too small to read).
+
+For example:
 
 ![Screenshot of Simepre Familia Singing with Song Lyrics in the Bottom Third](img/sf-singing-bottom-third.png)
 
@@ -97,5 +101,19 @@ Here is an example of a song that breaks up the text into 2 line sections, so th
 
     Nadie como tu bendito Dios,
     Grande es tu amor por mi.
+
+## Why This Format?
+
+When verses are in this particular format, we can save multiple arrangement presets and the operator can jump to the third verse just by pressing "3" on the keyboard.
+
+Here is an example:
+
+![Screenshot of Blue Skies and Rainbows in the Presentation Software Proclaim](img/song-in-proclaim.png)
+
+You can see the various parts of the song lyrics hilighted in red.  This includes the title, the arrangement, and the lyrics themselves.
+
+In green at the bottom of the screenshot, you can see how Proclaim organizes the slides.  The operator can see at a glance which slides correspond to which parts of the song.  If we need to skip a verse or repeat some part, we can do so on the fly easily.
+
+Thank you so much for partnering with us on this!
 
 [<- back](README.md)
