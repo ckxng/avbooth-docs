@@ -44,6 +44,10 @@ The software understands the following sections:
 - Tag: T, T1
 - Interlude: I, I1
 
+Here is an example email someone might compose to send us some songs.  (It's ok to include multiple songs in one email!)
+
+![Screenshot of an Email Containing Song Text](img/email-containing-songs.png)
+
 ## Alternate Format
 
 If a song does not have an easily defined structure, you can forgo the section labels and give us the song in this simplified format instead.
