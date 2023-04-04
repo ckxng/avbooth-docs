@@ -4,12 +4,15 @@ If we don't have your song in our database already, this is the best way to send
 
 Please email a copy of the lyrics to media@wwcoc.org.  They can be contained in a doc or just pasted into the email itself, as long as we can read the lyrics.  Please make sure it's a format we can copy and paste (not a photo of text).
 
+(Is this song for Siempre Familia?  Skip to the bottom for specifics on that.)
+
 ## Best Format
 
 This is the best way to send us lyrics.  Our software understands this format natively, and makes it very easy for the operater to skip around the song or to skip verses.
 
 _When verses are in this format, we can save multiple arrangement presets and the operator can jump to the third verse just by pressing "3" on the keyboard.  We thank you in advance!_
 
+    Title: Blue Skies and Rainbows
     Arrangement: V1, R, V2, R, V3, R
 
     VERSE 1
@@ -43,6 +46,8 @@ The software understands the following sections:
 
 If a song does not have an easily defined structure, you can forgo the section labels and give us the song in this simplified format instead.
 
+    Title: Blue Skies and Rainbows
+
     Blue skies and rainbows and sunbeams from heaven
     Are what I can see when my Lord is living in me
 
@@ -67,5 +72,30 @@ If a song does not have an easily defined structure, you can forgo the section l
     He makes His home in my heart
     Never more will I be all alone since
     He promised me that we never would part
+
+## Siempre Familia Songs
+
+On Sunday mornings, Siempre Familia runs a Live Stream with the bottom third scrolling song lyrics.  This means that song slides should be limited to 2-3 lines of text as a maximum (or else the text gets too small to read).  For example:
+
+![Screenshot of Simepre Familia Singing with Song Lyrics in the Bottom Third](sf-singing-bottom-third.png)
+
+Here is an example of a song that breaks up the text into 2 line sections, so that it will fit in the bottom third.
+
+    Title: Tu Fidelidad
+    Arrangement: C1, V1, C1, V1
+
+    Chorus 1
+    Tu fidelidad es grande,
+    Tu fidelidad incomparable es,
+
+    Nadie como Tú bendito Dios,
+    Grande es Tu fidelidad.
+
+    Verse 1
+    Tu amor por mi es grande,
+    Tu amor por mi incomparable es,
+
+    Nadie como tu bendito Dios,
+    Grande es tu amor por mi.
 
 [<- back](README.md)
