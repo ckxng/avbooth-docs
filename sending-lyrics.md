@@ -77,7 +77,7 @@ If a song does not have an easily defined structure, you can forgo the section l
 
 On Sunday mornings, Siempre Familia runs a Live Stream with the bottom third scrolling song lyrics.  This means that song slides should be limited to 2-3 lines of text as a maximum (or else the text gets too small to read).  For example:
 
-![Screenshot of Simepre Familia Singing with Song Lyrics in the Bottom Third](sf-singing-bottom-third.png)
+![Screenshot of Simepre Familia Singing with Song Lyrics in the Bottom Third](img/sf-singing-bottom-third.png)
 
 Here is an example of a song that breaks up the text into 2 line sections, so that it will fit in the bottom third.
 
