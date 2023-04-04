@@ -11,4 +11,11 @@ In order to LiveStream a song on Facebook and YouTube, we need to verify that th
 7. Search for the copyright owner in the search box.  example: sixsteprecords/Sparrow Records.
 8. If the copyright owner is listed, we can stream the recorded version of this song.
 
+## YouTube Note
+
+Most of the time, YouTube will completely ignore whether or not we have a license to stream the song in favor of its own content checking system.  But we still should take the time to verify this any time we are unsure for two reasons:
+
+1. It's the right thing to do!
+2. If YouTube's content check guesses wrong, we can appeal and restore the video.
+
 [<- back](README.md)
