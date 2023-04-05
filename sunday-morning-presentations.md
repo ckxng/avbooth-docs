@@ -22,6 +22,8 @@ Here is the timeline for a typical Sunday:
 
 Most people on this list have virtually unlimited time to prepare, and at least a two day window to deliver their task.  The exception to that is the Media team.  We cannot begin our work until all of the prerequisite items are turned in.  Communication is key!  If you think you might be late, please text Cameron ASAP.
 
+Anyone who wants to switch to self-service is more than welcome to do so.  We highly encourage it!  We've put a lot of work into trying to make things simple.  We would be more than happy to train you to add your own content to the presentation.
+
 Thank you so much for partnering with us to make every worship amazing!
 
 [<- back](README.md)
