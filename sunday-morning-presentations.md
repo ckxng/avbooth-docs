@@ -1,7 +1,5 @@
 # Sunday Morning Presentations
 
-Our Sunday morning presentations are put together by voluneers.  To accomodate busy schedules, we are asking for everyone's participation in 
-
 Here is the timeline for a typical Sunday:
 
 **Due by Wednesday 5pm** - Mike updates the date on the Order of Worship page and adjusts Bible verses
