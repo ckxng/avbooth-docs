@@ -15,7 +15,7 @@ Here is the timeline for a typical Sunday:
 
 **Due by Friday 5pm** - Media Team creates the presentation based on the Order of Worship in the app
 - We will skim the app for upcoming events and announcements and _may_ create slides for some of them, even if we have not recieved an email about it.
-- If any pieces of the Order of Worship are not present in the app at this time, they are not guaranteed to make it into the Sunday morning presentation.
+- If any pieces of the Order of Worship are not present in the app by Wednesday at 5pm, they are not guaranteed to make it into the Sunday morning presentation.
 
 **Final task** - Randy adds his slides into the presentation
 
