@@ -10,7 +10,7 @@ Here is the timeline for a typical Sunday:
 - Let us know in advance if a song is suspected to not be in the system
 - If a song needs to be added, [send us an email](sending-lyrics.md) at this time
 
-Due by Wednesday 5pm** - Special announcement slides, videos, or other one-off elements of the service
+**Due by Wednesday 5pm** - Special announcement slides, videos, or other one-off elements of the service
 - Here are some instructions for [sending these to us by email](sending-announcements.md).
 
 **Due by Friday 5pm** - Media Team creates the presentation based on the Order of Worship in the app
