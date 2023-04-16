@@ -7,13 +7,13 @@ If you know you'll be hosting an event which does any of the following, you will
 
 _In the future, there may be a centralized process for reserving the building through a coordinator who will help connect you to the Media Ministry - however, that process hasn't been released yet._
 
-Our process is as follows:
+## Our process is as follows
 
 Call the church office to request the use of the building as soon as you know the date of your event.  Tell the church office the start and end time of your event, how long setup and teardown will take, which rooms you will need, and whether you need to use media equipment (such as the auditorium or gym sound system).  The church office will tell you that you need to contact Cameron King.  
 
 You will need to call Cameron immediately after booking the event as the use of media equipment is _not confirmed_ until this conversation has happened and we understand the scope of what is required and volunteers to run it have been secured.
 
-We will discuss:
+## We will discuss
 
 - How many attendees you are expecting
 - How many presenters, singers, presentations, and [videos](sending-announcements.md) you will have
@@ -33,19 +33,19 @@ Once our volunteers are secured, or your volunteers have been trained:
 
 - We will confirm the reservation in the church app
 
-Two weeks out:
+## Two weeks out
 
 - Your coordinator should be close to a final version of the run of show
 - Your coordinator should notify presenters that their presentations are due in one week
 - Both points of contact should meet to review progress
 
-One week out:
+## One week out
 
 - The 99% final run of show is due and should be sent to media@wwcoc.org
 - All [media](sending-announcements.md) is due and should be sent to media@wwcoc.org.  This includes presentations, song slides, background images, digital street sign images, videos, a Spotify playlists.  (Call Cameron about how to send video files.)
 - We will get everything programmed into our system prior to the start of the event
 
-The day of the event:
+## The day of the event
 
 - If we are providing volunteers, we will setup and tear down the media equipment
 - Show time.
