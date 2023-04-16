@@ -10,6 +10,7 @@ This repo contains documentation, diagrams, and playbooks for the Woodland West 
 
 ## Documentation
 
+- [Large Event Planning](large-event-planning.md)
 - [Sunday Morning Presentations](sunday-morning-presentations.md)
 - [Sending the Media Team Lyrics](sending-lyrics.md)
 - [Sending the Media Team Announcements or Videos](sending-announcements.md)
