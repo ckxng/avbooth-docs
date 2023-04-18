@@ -20,7 +20,7 @@ Here is the timeline for a typical Sunday:
 
 - Since the Media Team duplicates presentations one week in advance, Randy can go in at _any time_ during the week and add his slides.
 
-Most people on this list have virtually unlimited time to prepare, and at least a two day window to deliver their task.  The exception to that is the Media team.  We cannot begin our work until all of the prerequisite items are turned in.  Communication is key!  If you think you might be late, please text Cameron ASAP.
+The Media team cannot begin their work until all of the prerequisite items are turned in.  Please try to use your time wisely to make sure your part is on-time and complete before the deadline.  Communication is key!  If you think you might be late, please text Cameron ASAP.
 
 Anyone who wants to switch to self-service is more than welcome to do so.  We highly encourage it!  We've put a lot of work into trying to make things simple.  We would be more than happy to train you to add your own content to the presentation.
 
