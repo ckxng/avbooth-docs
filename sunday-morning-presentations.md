@@ -10,6 +10,7 @@ Here is the timeline for a typical Sunday:
 
 **Due by Wednesday 5pm** - Special announcement slides, videos, or other one-off elements of the service
 - Here are some instructions for [sending these to us by email](sending-announcements.md).
+- Plan ahead on videos - We need them in a [particular format](sending-announcements.md).  If you're not sure how to do that it's best to reach out to Cameron a week before the deadline.
 
 **Due by Friday 5pm** - Media Team creates the presentation based on the Order of Worship in the app
 - We will skim the app for upcoming events and announcements and _may_ create slides for some of them, even if we have not recieved an email about it.

@@ -26,8 +26,8 @@ We absolutely cannot accept Keynote files or any other slideshow format.  Please
 
 ## Videos
 
-We can play 1080p and 720p mp4 video files up to 600MB in size, but PLEASE do not try to email us videos.
+We can play 1080p and 720p mp4 video files up to 600MB in size, but PLEASE do not try to email us large video files.  Links to publicly accessible YouTube or Vimeo video are typically fine.
 
-Videos usually require some discussion.  Please text Cameron to discuss your video at least a week in advance.
+Videos often require some discussion.  If this is your first time sending us a video, please text Cameron to discuss your video at least a week in advance.
 
 [<- back](README.md)
